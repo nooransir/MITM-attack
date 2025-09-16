@@ -1,5 +1,3 @@
-
-✅ 📋 README.md
 # 🚨 Man-in-the-Middle (MITM) Attack Demo
 
 ## ✅ Overview
